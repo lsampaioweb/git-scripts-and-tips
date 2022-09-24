@@ -3,3 +3,6 @@
 .DS_Store
 .AppleDouble
 .LSOverride
+
+# Original Keynote file
+*.key
