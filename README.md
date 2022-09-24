@@ -1,5 +1,5 @@
 # Git Scripts and Tips
-Repository with scripts, tips, presentations (*.pptx) and exercises about Git.
+Repository with scripts, tips, presentations and exercises about Git.
 
 # Links:
 
