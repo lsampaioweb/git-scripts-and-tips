@@ -3,7 +3,7 @@ Repository with scripts, tips, presentations and exercises about Git.
 
 # Links:
 
-[Links](Links.md "Links")
+1. [Git Documentation.](https://git-scm.com/docs)
 
 # License:
 
